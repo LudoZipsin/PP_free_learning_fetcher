@@ -3,9 +3,9 @@ A little script to automate the claiming of free ebook from packtpub
 
 ## motivation
 
-PacktPub is just awesome, the quality of their book is just great, they are easy to read and there is almost dozen of book for every topics you'll want. I visit their site very often to see their newest books. 
+[PacktPub](https://www.packtpub.com/) is just awesome, the quality of their book is just great, they are easy to read and there is almost dozen of book for every topics you'll want. I visit their site very often to see their newest books and paying for a subscription to gain access to their library worth every single dime it cost.
 
-They also provide an offer: **free learning**. Basically, they propose a free random ebook from their library every day. Yes, for FREE, without DRM or some other nasty thing. 
+They also provide an offer: [free learning](https://www.packtpub.com/packt/offers/free-learning). Basically, they propose a free random ebook from their library every day. Yes, for FREE, without DRM or some other nasty thing. 
 
 Most of the time, I visit their site every day in order to claim this free ebook. However, I travel a lot, and sometime I can't have access to an internet connection and I miss the daily free ebook. And since Murphy is always there to have a fun, most of the time it is an ebook about the technologies I really want to learn more. 
 

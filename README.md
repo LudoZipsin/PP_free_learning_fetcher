@@ -1,3 +1,5 @@
+A more advanced version with Dockerfile and slack integration can be found [here](https://github.com/LudoZipsin/SlackScrapper)
+
 # PacktPub free learning fetcher
 A little script to automate the claiming of free ebook from packtpub
 
